@@ -2,7 +2,7 @@
 layout: post
 title:  "What Is Test Automation Really?"
 date:   2024-01-16
-categories: Automation, Tools, Testing
+categories: Automation Tools Testing
 comments: false
 ---
 When I started in QA as an apprentice, I did the course and the final project, and got the ISTQB foundation qualification along the way.
