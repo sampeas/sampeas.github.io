@@ -8,7 +8,7 @@ comments: false
 When I started in QA as an apprentice, I did the course and the final project, and got the ISTQB foundation qualification along the way.
 The course taught and assessed around the ISTQB format and definition of testing, write test cases with defined steps and all the other 'necessary' documentation before executing the predefined tests.
 
-Portraying testing as a *just* defining some repeatable steps and checking outputs is one big reason why automated testing tools can be largely overvalued as replacements for human 'manual' testers. This was a realisation made possible by voices supporting a context-dependent approach to 'automation' and how it is better to discuss 'test tools' instead. Making this switch changes the notion of 'automation in testing' to cover all aspects of testing. Tools are used for test design, test execution, test reporting, and more. [1]
+Portraying testing as a *just* defining some repeatable steps and checking outputs is one big reason why automated testing tools can be largely overvalued as replacements for human 'manual' testers. This was a realisation made possible by voices supporting a context-dependent approach to 'automation' and how it is better to discuss 'test tools' instead. <!--more--> Making this switch changes the notion of 'automation in testing' to cover all aspects of testing. Tools are used for test design, test execution, test reporting, and more. [1]
 
 While considering test tools and my own testing approach I came across 'counterstrings'. This is a text block which self describes its character count at intervals with a number indicating the position of a marker character (e.g. a counter string of length 10 would be \*3\*5\*7\*10*). [2]
 
