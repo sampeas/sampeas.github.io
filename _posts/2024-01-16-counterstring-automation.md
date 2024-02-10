@@ -20,6 +20,6 @@ It was a very simple console app written in python but I still use it after many
 
 [1] The main motivation behind this was a collaborative work by James Bach and Michael Bolton in a combined paper ([here](https://www.satisfice.com/download/a-context-driven-approach-to-automation-in-testing)) and related blog posts such as [this](https://developsense.com/blog/2023/01/test-tools).
 
-[2] I fist was introduced to counterstrings in a video by The Evil Tester, Alan Richardson ([here](https://www.youtube.com/watch?v=-Cs80GWeRuY)) however this idea is credited again to James Bach ([here](https://www.satisfice.com/blog/archives/22)).
+[2] I first was introduced to counterstrings in a video by The Evil Tester, Alan Richardson ([here](https://www.youtube.com/watch?v=-Cs80GWeRuY)) however this idea is credited again to James Bach ([here](https://www.satisfice.com/blog/archives/22)).
 
 [3] A list of my projects, including the counterstring tool, can be found [here](https://sampeas.github.io/projects/). Alternatively, go straight to the GitHub repository ([here](https://github.com/sampeas/python-counterstring-generator)).
